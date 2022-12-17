@@ -6,7 +6,7 @@
 
       "source": "/api/:match*",
 
-      "destination": "https://magical-biscochitos-3c1fb6.netlify.app/:match*"
+      "destination": "https://netease-cloud-music-api-rho-mauve.vercel.app/:match*"
 
     }
 
